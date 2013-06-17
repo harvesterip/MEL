@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="Model" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="12D78" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="MEL" representedClassName="MEL" syncable="YES">
+        <attribute name="chapSec" optional="YES" attributeType="String" defaultValueString="NUMBER" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" defaultValueString="DESCRIPTION" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" defaultValueString="TITLE" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="MEL" positionX="160" positionY="192" width="128" height="105"/>
+    </elements>
+</model>
